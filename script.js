@@ -1,8 +1,9 @@
 //your JS code here. If required.
 
-function changeText(){
-	document.getElementById("status")
+function changeText(){ 
+	
+	var status=document.getElementById("status")
 
-    para.innerHTML="<h1>Hello</h1>"
+    status.innerHTML="<h1>Enter Metaverse</h1>"
 
 }
